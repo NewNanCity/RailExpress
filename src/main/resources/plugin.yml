@@ -1,0 +1,6 @@
+name: RailExpress
+version: ${project.version}
+main: io.github.gk0wk.railexpress.RailExpress
+authors: [ Gk0Wk ]
+description: Make your minecart change max speed on different block.
+website: https://gk0wk.github.io/
